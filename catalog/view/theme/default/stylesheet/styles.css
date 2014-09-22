@@ -104,7 +104,7 @@ html, body{
 	position: relative;
 	border: solid 3px #dc0000;
 	width: 350px;
-	min-height: 30px;
+	min-height: 15px;
 	margin: 0 auto;	
 	z-index: 200;
 	top: -80px;	
@@ -117,27 +117,44 @@ html, body{
 	border: none; 
     outline: none; 
     -webkit-appearance: none; 
-    width: 300px; 
+    width: 280px; 
    /* vertical-align: middle;*/
 	background-color: transparent;
 	/*font-family: HelveticaNeueCyr;*/
-	font-size: 33px;
+	font-size: 18px;
 	/*font-style: roman;*/
 	font-family: arial;
 	color: #000;
+	color: #575757;
 	margin-left:5px;
 	
 	
 	}
 .top-block >.search-form button[type="submit"]{
-	width: 30px; 
+	/*width: 30px; 
     height: 30px; 
     border: none; 
-    background: url(../images/search-btn.png) no-repeat 50% 50%; 
+    background: url(../images/search-btn.png) no-repeat 50% 50%;
 	margin-top: 8px;
 	margin-left: 4px;
 	
+	cursor: pointer; */
+	
 	cursor: pointer;
+	color: #FFFFFF;
+	line-height: 20px;
+	width:50px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	background: url('../image/button.png') top left repeat-x;
+	-webkit-border-radius: 7px 7px 7px 7px;
+	-moz-border-radius: 7px 7px 7px 7px;
+	-khtml-border-radius: 7px 7px 7px 7px;
+	border-radius: 7px 7px 7px 7px;
+	-webkit-box-shadow: 0px 2px 2px #DDDDDD;
+	-moz-box-shadow: 0px 2px 2px #DDDDDD;
+	box-shadow: 0px 2px 2px #DDDDDD;
 	}
 /****************************************/
 .phones-block {

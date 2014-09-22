@@ -75,9 +75,10 @@
 				<?php } else { ?>
 				<input type="text" name="filter_name" value="<?php echo $text_search; ?>" onclick="this.value = '';" size="40" onkeydown="this.style.color = '#000000';" />
 				<?php } ?>
-					<button class="button-search" type="submit"  > </button>	
+				<button class="button-search" type="submit"  >Найти</button>	
 				
-				<!--<input type="search" value="Поиск товара..." size="40">-->
+			<!--	<input class="button" type="submit" value="Найти" >
+			<!--	<input type="search" value="Поиск товара..." size="40">-->
 			</div>
 			
 			<div class="phones-block">
