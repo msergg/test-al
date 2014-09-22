@@ -95,19 +95,19 @@ html, body{
 	background: white url(../images/top-bg.jpg) repeat-x;
 	}
 .top-block img{
-	margin-top: 40px;
-	height: 200px;
+	margin-top: 70px;
+	height: 130px;
 	display:inline;
 	}
 /*******************************************/
 .top-block .search-form{
 	position: relative;
 	border: solid 3px #dc0000;
-	width: 350px;
+	width: 700px;
 	min-height: 15px;
 	margin: 0 auto;	
 	z-index: 200;
-	top: -80px;	
+	top: 40px;	
 	
 	-webkit-border-radius: 8px;
 	-moz-border-radius: 8px;
@@ -117,7 +117,7 @@ html, body{
 	border: none; 
     outline: none; 
     -webkit-appearance: none; 
-    width: 280px; 
+    width: 630px; 
    /* vertical-align: middle;*/
 	background-color: transparent;
 	/*font-family: HelveticaNeueCyr;*/
@@ -144,6 +144,7 @@ html, body{
 	color: #FFFFFF;
 	line-height: 20px;
 	width:50px;
+	margin-bottom: 3px;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	font-weight: bold;
