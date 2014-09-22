@@ -470,3 +470,12 @@
 2014-09-14 12:30:55 - PHP Notice:  Undefined index: shipping_address in Z:\home\test-al.ua\www\catalog\controller\checkout\shipping_address.php on line 136
 2014-09-14 12:31:45 - PHP Notice:  Undefined index: shipping_address in Z:\home\test-al.ua\www\catalog\controller\checkout\shipping_address.php on line 104
 2014-09-14 12:31:45 - PHP Notice:  Undefined index: shipping_address in Z:\home\test-al.ua\www\catalog\controller\checkout\shipping_address.php on line 136
+2014-09-22 19:00:17 - PHP Notice:  Undefined index: min_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 429
+2014-09-22 19:00:17 - PHP Notice:  Undefined index: max_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 430
+2014-09-22 19:08:23 - PHP Notice:  Undefined variable: entry_fax in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 19
+2014-09-22 19:08:23 - PHP Notice:  Undefined variable: entry_company in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 36
+2014-09-22 19:08:23 - PHP Notice:  Undefined variable: entry_customer_group in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 41
+2014-09-22 19:08:23 - PHP Notice:  Undefined variable: entry_company_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 55
+2014-09-22 19:08:23 - PHP Notice:  Undefined variable: entry_tax_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 60
+2014-09-22 19:08:23 - PHP Notice:  Undefined variable: entry_address_2 in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 69
+2014-09-22 19:08:23 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 77
