@@ -1,0 +1,472 @@
+2014-05-10 1:51:24 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:51:24 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:51:24 - PHP Notice:  Undefined variable: informations in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\header.tpl on line 99
+2014-05-10 1:51:25 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:51:25 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:51:26 - PHP Notice:  Undefined variable: informations in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\header.tpl on line 99
+2014-05-10 1:51:26 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:51:26 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:51:26 - PHP Notice:  Undefined variable: informations in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\header.tpl on line 99
+2014-05-10 1:51:44 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:51:44 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:51:45 - PHP Notice:  Undefined variable: informations in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\header.tpl on line 99
+2014-05-10 1:51:45 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:51:45 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:51:46 - PHP Notice:  Undefined variable: informations in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\header.tpl on line 99
+2014-05-10 1:51:46 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:51:46 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:51:46 - PHP Notice:  Undefined variable: informations in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\header.tpl on line 99
+2014-05-10 1:52:54 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:52:54 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:58:05 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:58:05 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:58:05 - PHP Notice:  Undefined variable: informations in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\header.tpl on line 99
+2014-05-10 1:58:09 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:58:09 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:58:09 - PHP Notice:  Undefined variable: informations in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\header.tpl on line 99
+2014-05-10 1:58:09 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:58:09 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:58:10 - PHP Notice:  Undefined variable: informations in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\header.tpl on line 99
+2014-05-10 1:58:10 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:58:10 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:58:11 - PHP Notice:  Undefined variable: informations in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\header.tpl on line 99
+2014-05-10 1:58:13 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:58:13 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 1:58:13 - PHP Notice:  Undefined variable: informations in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\header.tpl on line 99
+2014-05-10 2:02:25 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:02:25 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:02:25 - PHP Notice:  Undefined variable: informations in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\header.tpl on line 99
+2014-05-10 2:02:26 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:02:26 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:02:26 - PHP Notice:  Undefined variable: informations in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\header.tpl on line 99
+2014-05-10 2:02:26 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:02:26 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:02:27 - PHP Notice:  Undefined variable: informations in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\header.tpl on line 99
+2014-05-10 2:05:31 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:05:31 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:05:32 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:05:32 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:05:32 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:05:32 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:07:18 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:07:18 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:07:19 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:07:19 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:07:19 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:07:19 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:07:48 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:07:48 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:07:49 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:07:49 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:07:50 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:07:50 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:07:59 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:07:59 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:08:01 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:08:01 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:08:02 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:08:02 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:08:03 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:08:03 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:08:06 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:08:06 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:08:07 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:08:07 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:08:08 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 2:08:08 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:08:58 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:08:58 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:08:59 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:08:59 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:08:59 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:08:59 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:05 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:05 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:06 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:06 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:06 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:06 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:13 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:13 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:19 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:19 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:19 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:19 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:20 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:20 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:24 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:24 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:25 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:25 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:25 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:09:25 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:33:22 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:33:22 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:33:23 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:33:23 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:33:24 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:33:24 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:34:47 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:34:47 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:34:48 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:34:48 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:34:49 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:34:49 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:34:51 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:34:51 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:34:52 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:34:52 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:34:52 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:34:52 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:12 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:12 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:13 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:13 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:13 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:13 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:17 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:17 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:18 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:18 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:18 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:18 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:48 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:48 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:49 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:49 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:50 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:35:50 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:37:44 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:37:44 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:37:45 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:37:45 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:37:45 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:37:45 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:35 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:35 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:36 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:36 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:36 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:36 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:49 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:49 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:50 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:50 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:50 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:50 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:54 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:54 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:55 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:55 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:55 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:55 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:59 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:38:59 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:39:00 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:39:00 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:39:01 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:39:01 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:39:04 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:39:04 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:39:04 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:39:04 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:39:05 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:39:05 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:39:07 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:39:07 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:39:08 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:39:08 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:39:08 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 13:39:08 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:46:57 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:46:57 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:46:58 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:46:58 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:46:59 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:46:59 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:49:20 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:49:20 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:49:21 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:49:21 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:49:22 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:49:22 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:49:27 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:49:27 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:49:28 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:49:28 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:49:29 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:49:29 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:50:09 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:50:09 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:50:10 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:50:10 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:50:10 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:50:10 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:52:24 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:52:24 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:52:46 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:52:46 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:53:36 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:53:36 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:55:26 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:55:26 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:56:31 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:56:31 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:57:08 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:57:08 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:59:07 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 14:59:07 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:02:18 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:02:18 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:02:23 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:02:23 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:04:50 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:04:50 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:04:52 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:04:52 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:05:38 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:05:38 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:05:39 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:05:39 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:08:43 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:08:43 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:08:50 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:08:50 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:11:11 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:11:11 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:13:33 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:13:33 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:13:54 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:13:54 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:14:09 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:14:09 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:14:19 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:14:19 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:14:20 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:14:20 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:15:09 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:15:09 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:15:40 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:15:40 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:16:14 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:16:14 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:16:34 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:16:34 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:18:42 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:18:42 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:25:08 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:25:08 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:33:42 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 15:33:42 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:04:02 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:04:02 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:04:06 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:04:06 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:22:21 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:22:21 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:24:31 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:24:31 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:24:32 - PHP Notice:  Undefined variable: product in Z:\home\test-al.ua\www\catalog\view\theme\default\template\module\cart.tpl on line 3
+2014-05-10 16:24:32 - PHP Notice:  Undefined variable: product in Z:\home\test-al.ua\www\catalog\view\theme\default\template\module\cart.tpl on line 4
+2014-05-10 16:25:23 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:25:23 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:26:45 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:26:45 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:27:25 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:27:25 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:34:52 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:34:52 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:34:55 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:34:55 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:34:59 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:34:59 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:35:02 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:35:02 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:39:38 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:39:38 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:39:42 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:39:42 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:43:09 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\al_template\template\common\content_top.tpl on line 3
+2014-05-10 16:43:09 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\al_template\template\common\content_top.tpl on line 3
+2014-05-10 16:43:14 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\al_template\template\common\content_top.tpl on line 3
+2014-05-10 16:43:14 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\al_template\template\common\content_top.tpl on line 3
+2014-05-10 16:44:14 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:44:14 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:44:24 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:44:24 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:45:20 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:45:20 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:48:07 - PHP Notice:  Undefined variable: categories in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 16:48:07 - PHP Warning:  Invalid argument supplied for foreach() in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 3
+2014-05-10 17:15:14 - PHP Notice:  Undefined variable: search in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\header.tpl on line 65
+2014-05-10 17:27:39 - PHP Notice:  Undefined index: meta-keyword in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-10 17:27:39 - PHP Notice:  Undefined index: meta-keyword in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-10 17:27:39 - PHP Notice:  Undefined index: meta-keyword in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-10 17:27:39 - PHP Notice:  Undefined index: meta-keyword in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-10 17:27:39 - PHP Notice:  Undefined index: meta-keyword in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-10 17:27:39 - PHP Notice:  Undefined index: meta-keyword in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-10 17:27:41 - PHP Notice:  Undefined index: meta-keyword in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-10 17:27:41 - PHP Notice:  Undefined index: meta-keyword in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-10 17:27:41 - PHP Notice:  Undefined index: meta-keyword in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-10 17:27:41 - PHP Notice:  Undefined index: meta-keyword in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-10 17:27:41 - PHP Notice:  Undefined index: meta-keyword in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-10 17:27:41 - PHP Notice:  Undefined index: meta-keyword in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-10 17:29:00 - PHP Notice:  Undefined index: image in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-10 17:29:00 - PHP Notice:  Undefined index: image in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-10 17:29:00 - PHP Notice:  Undefined index: image in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-10 17:29:00 - PHP Notice:  Undefined index: image in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-10 17:29:00 - PHP Notice:  Undefined index: image in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-10 17:29:00 - PHP Notice:  Undefined index: image in Z:\home\test-al.ua\www\catalog\view\theme\default\template\common\content_top.tpl on line 7
+2014-05-23 22:04:06 - PHP Notice:  Undefined variable: c1ontent_top in Z:\home\test-al.ua\www\catalog\view\theme\default\template\product\category.tpl on line 9
+2014-05-23 23:09:07 - PHP Notice:  Undefined index: min_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 429
+2014-05-23 23:09:07 - PHP Notice:  Undefined index: max_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 430
+2014-05-23 23:09:53 - PHP Notice:  Undefined index: min_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 429
+2014-05-23 23:09:53 - PHP Notice:  Undefined index: max_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 430
+2014-05-23 23:09:55 - PHP Notice:  Undefined variable: filter in Z:\home\test-al.ua\www\catalog\view\theme\default\template\product\category.tpl on line 31
+2014-05-23 23:13:31 - PHP Notice:  Error: Could not load model catalog/filter! in Z:\home\test-al.ua\www\system\engine\loader.php on line 48
+2014-05-23 23:13:32 - PHP Notice:  Error: Could not load model catalog/filter! in Z:\home\test-al.ua\www\system\engine\loader.php on line 48
+2014-06-10 2:54:40 - PHP Notice:  Use of undefined constant php - assumed 'php' in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\cart.tpl on line 21
+2014-08-20 15:55:12 - PHP Warning:  file_get_contents(Z:\home\test-al.ua\www/system/cache/cache.currency.1404990081) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in Z:\home\test-al.ua\www\system\library\cache.php on line 9
+2014-08-20 15:55:13 - PHP Warning:  unlink(Z:\home\test-al.ua\www/system/cache/cache.product.total.2.0.1.08f26141b4c32f1d42aeea67f45b2e06.1408539312) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in Z:\home\test-al.ua\www\system\library\cache.php on line 45
+2014-09-14 1:27:55 - PHP Notice:  Undefined index: postcode in Z:\home\test-al.ua\www\catalog\controller\checkout\register.php on line 190
+2014-09-14 1:27:55 - PHP Notice:  Undefined index: fax in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 14
+2014-09-14 1:27:55 - PHP Notice:  Undefined index: company in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 18
+2014-09-14 1:27:55 - PHP Notice:  Undefined index: company_id in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 18
+2014-09-14 1:27:55 - PHP Notice:  Undefined index: tax_id in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 18
+2014-09-14 1:27:55 - PHP Notice:  Undefined index: address_2 in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 18
+2014-09-14 1:27:55 - PHP Notice:  Undefined index: postcode in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 18
+2014-09-14 1:27:56 - PHP Notice:  Undefined index: postcode in Z:\home\test-al.ua\www\catalog\controller\checkout\register.php on line 245
+2014-09-14 1:31:22 - PHP Notice:  Undefined index: postcode in Z:\home\test-al.ua\www\catalog\controller\checkout\register.php on line 190
+2014-09-14 1:32:47 - PHP Notice:  Undefined index: postcode in Z:\home\test-al.ua\www\catalog\controller\checkout\register.php on line 190
+2014-09-14 1:33:49 - PHP Notice:  Undefined variable: entry_fax in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 19
+2014-09-14 1:33:49 - PHP Notice:  Undefined variable: entry_company in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 36
+2014-09-14 1:33:49 - PHP Notice:  Undefined variable: entry_company_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 55
+2014-09-14 1:33:49 - PHP Notice:  Undefined variable: entry_tax_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 60
+2014-09-14 1:33:49 - PHP Notice:  Undefined variable: entry_address_2 in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 69
+2014-09-14 1:33:49 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 77
+2014-09-14 1:33:59 - PHP Notice:  Undefined index: postcode in Z:\home\test-al.ua\www\catalog\controller\checkout\register.php on line 190
+2014-09-14 1:42:13 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' country_id = '2', zone_id = '2809'' at line 1<br />Error No: 1064<br />INSERT INTO address SET customer_id = '4', firstname = 'ыы', lastname = 'ыыы', address_1 = 'ыыы', city = 'ыыы',, country_id = '2', zone_id = '2809' in Z:\home\test-al.ua\www\system\database\mysql.php on line 49
+2014-09-14 1:43:07 - PHP Notice:  Undefined index: fax in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 14
+2014-09-14 1:43:07 - PHP Notice:  Undefined index: company in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 18
+2014-09-14 1:43:07 - PHP Notice:  Undefined index: company_id in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 18
+2014-09-14 1:43:07 - PHP Notice:  Undefined index: tax_id in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 18
+2014-09-14 1:43:07 - PHP Notice:  Undefined index: address_2 in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 18
+2014-09-14 1:43:07 - PHP Notice:  Undefined index: postcode in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 18
+2014-09-14 1:43:08 - PHP Notice:  Undefined index: postcode in Z:\home\test-al.ua\www\catalog\controller\checkout\register.php on line 245
+2014-09-14 1:43:55 - PHP Notice:  Undefined variable: entry_fax in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 19
+2014-09-14 1:43:55 - PHP Notice:  Undefined variable: entry_company in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 36
+2014-09-14 1:43:55 - PHP Notice:  Undefined variable: entry_customer_group in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 41
+2014-09-14 1:43:55 - PHP Notice:  Undefined variable: entry_company_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 55
+2014-09-14 1:43:55 - PHP Notice:  Undefined variable: entry_tax_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 60
+2014-09-14 1:43:55 - PHP Notice:  Undefined variable: entry_address_2 in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 69
+2014-09-14 1:43:55 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 77
+2014-09-14 1:44:06 - PHP Notice:  Undefined index: company in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 18
+2014-09-14 1:44:06 - PHP Notice:  Undefined index: company_id in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 18
+2014-09-14 1:44:06 - PHP Notice:  Undefined index: tax_id in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 18
+2014-09-14 1:44:06 - PHP Notice:  Undefined index: address_2 in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 18
+2014-09-14 1:44:06 - PHP Notice:  Undefined index: postcode in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 18
+2014-09-14 1:44:07 - PHP Notice:  Undefined index: postcode in Z:\home\test-al.ua\www\catalog\controller\checkout\register.php on line 245
+2014-09-14 1:45:50 - PHP Notice:  Undefined variable: entry_fax in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 19
+2014-09-14 1:45:50 - PHP Notice:  Undefined variable: entry_company in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 36
+2014-09-14 1:45:50 - PHP Notice:  Undefined variable: entry_customer_group in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 41
+2014-09-14 1:45:50 - PHP Notice:  Undefined variable: entry_company_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 55
+2014-09-14 1:45:50 - PHP Notice:  Undefined variable: entry_tax_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 60
+2014-09-14 1:45:50 - PHP Notice:  Undefined variable: entry_address_2 in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 69
+2014-09-14 1:45:50 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 77
+2014-09-14 1:46:08 - PHP Notice:  Undefined index: tax_id in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 18
+2014-09-14 1:46:08 - PHP Notice:  Undefined index: postcode in Z:\home\test-al.ua\www\catalog\controller\checkout\register.php on line 245
+2014-09-14 1:47:05 - PHP Notice:  Undefined variable: entry_fax in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 19
+2014-09-14 1:47:05 - PHP Notice:  Undefined variable: entry_company in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 36
+2014-09-14 1:47:05 - PHP Notice:  Undefined variable: entry_customer_group in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 41
+2014-09-14 1:47:05 - PHP Notice:  Undefined variable: entry_company_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 55
+2014-09-14 1:47:05 - PHP Notice:  Undefined variable: entry_tax_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 60
+2014-09-14 1:47:05 - PHP Notice:  Undefined variable: entry_address_2 in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 69
+2014-09-14 1:47:05 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 77
+2014-09-14 1:47:19 - PHP Notice:  Undefined index: tax_id in Z:\home\test-al.ua\www\catalog\model\account\customer.php on line 18
+2014-09-14 2:00:44 - PHP Notice:  Undefined variable: entry_fax in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 19
+2014-09-14 2:00:44 - PHP Notice:  Undefined variable: entry_company in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 36
+2014-09-14 2:00:44 - PHP Notice:  Undefined variable: entry_customer_group in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 41
+2014-09-14 2:00:44 - PHP Notice:  Undefined variable: entry_company_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 55
+2014-09-14 2:00:44 - PHP Notice:  Undefined variable: entry_tax_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 60
+2014-09-14 2:00:44 - PHP Notice:  Undefined variable: entry_address_2 in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 69
+2014-09-14 2:00:44 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 77
+2014-09-14 2:15:00 - PHP Notice:  Undefined variable: entry_fax in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 19
+2014-09-14 2:15:00 - PHP Notice:  Undefined variable: entry_company in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 36
+2014-09-14 2:15:00 - PHP Notice:  Undefined variable: entry_customer_group in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 41
+2014-09-14 2:15:00 - PHP Notice:  Undefined variable: entry_company_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 55
+2014-09-14 2:15:00 - PHP Notice:  Undefined variable: entry_tax_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 60
+2014-09-14 2:15:00 - PHP Notice:  Undefined variable: entry_address_2 in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 69
+2014-09-14 2:15:00 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 77
+2014-09-14 2:15:13 - PHP Notice:  Undefined offset: 0 in Z:\home\test-al.ua\www\catalog\model\shipping\novaposhta.php on line 64
+2014-09-14 2:15:13 - PHP Notice:  Undefined offset: 0 in Z:\home\test-al.ua\www\catalog\model\shipping\novaposhta.php on line 66
+2014-09-14 2:15:13 - PHP Notice:  Undefined offset: 0 in Z:\home\test-al.ua\www\catalog\model\shipping\novaposhta.php on line 66
+2014-09-14 2:15:13 - PHP Notice:  Undefined variable: entry_fax in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 19
+2014-09-14 2:15:13 - PHP Notice:  Undefined variable: entry_company in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 36
+2014-09-14 2:15:13 - PHP Notice:  Undefined variable: entry_customer_group in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 41
+2014-09-14 2:15:13 - PHP Notice:  Undefined variable: entry_company_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 55
+2014-09-14 2:15:13 - PHP Notice:  Undefined variable: entry_tax_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 60
+2014-09-14 2:15:13 - PHP Notice:  Undefined variable: entry_address_2 in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 69
+2014-09-14 2:15:13 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 77
+2014-09-14 2:21:23 - PHP Notice:  Undefined variable: entry_fax in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 19
+2014-09-14 2:21:23 - PHP Notice:  Undefined variable: entry_company in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 36
+2014-09-14 2:21:23 - PHP Notice:  Undefined variable: entry_customer_group in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 41
+2014-09-14 2:21:23 - PHP Notice:  Undefined variable: entry_company_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 55
+2014-09-14 2:21:23 - PHP Notice:  Undefined variable: entry_tax_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 60
+2014-09-14 2:21:23 - PHP Notice:  Undefined variable: entry_address_2 in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 69
+2014-09-14 2:21:23 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 77
+2014-09-14 2:21:34 - PHP Notice:  Undefined offset: 0 in Z:\home\test-al.ua\www\catalog\model\shipping\novaposhta.php on line 64
+2014-09-14 2:21:34 - PHP Notice:  Undefined offset: 0 in Z:\home\test-al.ua\www\catalog\model\shipping\novaposhta.php on line 66
+2014-09-14 2:21:34 - PHP Notice:  Undefined offset: 0 in Z:\home\test-al.ua\www\catalog\model\shipping\novaposhta.php on line 66
+2014-09-14 2:21:35 - PHP Notice:  Undefined variable: entry_fax in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 19
+2014-09-14 2:21:35 - PHP Notice:  Undefined variable: entry_company in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 36
+2014-09-14 2:21:35 - PHP Notice:  Undefined variable: entry_customer_group in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 41
+2014-09-14 2:21:35 - PHP Notice:  Undefined variable: entry_company_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 55
+2014-09-14 2:21:35 - PHP Notice:  Undefined variable: entry_tax_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 60
+2014-09-14 2:21:35 - PHP Notice:  Undefined variable: entry_address_2 in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 69
+2014-09-14 2:21:35 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 77
+2014-09-14 2:23:16 - PHP Notice:  Undefined variable: entry_fax in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 19
+2014-09-14 2:23:16 - PHP Notice:  Undefined variable: entry_company in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 36
+2014-09-14 2:23:16 - PHP Notice:  Undefined variable: entry_customer_group in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 41
+2014-09-14 2:23:16 - PHP Notice:  Undefined variable: entry_company_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 55
+2014-09-14 2:23:16 - PHP Notice:  Undefined variable: entry_tax_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 60
+2014-09-14 2:23:16 - PHP Notice:  Undefined variable: entry_address_2 in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 69
+2014-09-14 2:23:16 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 77
+2014-09-14 2:23:35 - PHP Notice:  Undefined variable: entry_fax in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 19
+2014-09-14 2:23:35 - PHP Notice:  Undefined variable: entry_company in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 36
+2014-09-14 2:23:35 - PHP Notice:  Undefined variable: entry_customer_group in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 41
+2014-09-14 2:23:35 - PHP Notice:  Undefined variable: entry_company_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 55
+2014-09-14 2:23:35 - PHP Notice:  Undefined variable: entry_tax_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 60
+2014-09-14 2:23:35 - PHP Notice:  Undefined variable: entry_address_2 in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 69
+2014-09-14 2:23:35 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 77
+2014-09-14 2:27:26 - PHP Notice:  Undefined variable: entry_fax in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 19
+2014-09-14 2:27:26 - PHP Notice:  Undefined variable: entry_company in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 36
+2014-09-14 2:27:26 - PHP Notice:  Undefined variable: entry_customer_group in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 41
+2014-09-14 2:27:26 - PHP Notice:  Undefined variable: entry_company_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 55
+2014-09-14 2:27:26 - PHP Notice:  Undefined variable: entry_tax_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 60
+2014-09-14 2:27:26 - PHP Notice:  Undefined variable: entry_address_2 in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 69
+2014-09-14 2:27:26 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 77
+2014-09-14 2:50:24 - PHP Notice:  Undefined variable: entry_fax in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 19
+2014-09-14 2:50:24 - PHP Notice:  Undefined variable: entry_company in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 36
+2014-09-14 2:50:24 - PHP Notice:  Undefined variable: entry_customer_group in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 41
+2014-09-14 2:50:24 - PHP Notice:  Undefined variable: entry_company_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 55
+2014-09-14 2:50:24 - PHP Notice:  Undefined variable: entry_tax_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 60
+2014-09-14 2:50:24 - PHP Notice:  Undefined variable: entry_address_2 in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 69
+2014-09-14 2:50:24 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 77
+2014-09-14 2:50:36 - PHP Notice:  Undefined variable: entry_fax in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 19
+2014-09-14 2:50:36 - PHP Notice:  Undefined variable: entry_company in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 36
+2014-09-14 2:50:36 - PHP Notice:  Undefined variable: entry_customer_group in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 41
+2014-09-14 2:50:36 - PHP Notice:  Undefined variable: entry_company_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 55
+2014-09-14 2:50:36 - PHP Notice:  Undefined variable: entry_tax_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 60
+2014-09-14 2:50:36 - PHP Notice:  Undefined variable: entry_address_2 in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 69
+2014-09-14 2:50:36 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 77
+2014-09-14 2:50:56 - PHP Notice:  Undefined variable: entry_fax in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 19
+2014-09-14 2:50:56 - PHP Notice:  Undefined variable: entry_company in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 36
+2014-09-14 2:50:56 - PHP Notice:  Undefined variable: entry_customer_group in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 41
+2014-09-14 2:50:56 - PHP Notice:  Undefined variable: entry_company_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 55
+2014-09-14 2:50:56 - PHP Notice:  Undefined variable: entry_tax_id in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 60
+2014-09-14 2:50:56 - PHP Notice:  Undefined variable: entry_address_2 in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 69
+2014-09-14 2:50:56 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\register.tpl on line 77
+2014-09-14 12:30:55 - PHP Notice:  Undefined index: shipping_address in Z:\home\test-al.ua\www\catalog\controller\checkout\shipping_address.php on line 104
+2014-09-14 12:30:55 - PHP Notice:  Undefined index: shipping_address in Z:\home\test-al.ua\www\catalog\controller\checkout\shipping_address.php on line 136
+2014-09-14 12:31:45 - PHP Notice:  Undefined index: shipping_address in Z:\home\test-al.ua\www\catalog\controller\checkout\shipping_address.php on line 104
+2014-09-14 12:31:45 - PHP Notice:  Undefined index: shipping_address in Z:\home\test-al.ua\www\catalog\controller\checkout\shipping_address.php on line 136
