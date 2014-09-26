@@ -85,6 +85,9 @@
   <?php if (($coupon_status || $voucher_status || $reward_status || $shipping_status ) and false) { ?>
   <h2><?php echo $text_next; ?></h2>
   <div class="content">
+  
+   <div style="width:1000px; margin:0 auto;">
+   
     <p><?php echo $text_next_choice; ?></p>
     <table class="radio">
       <?php if ($coupon_status) { ?>
@@ -128,6 +131,7 @@
       </tr>
       <?php } ?>
     </table>
+  </div>
   </div>
   <div class="cart-module">
     <div id="coupon" class="content" style="display: <?php echo ($next == 'coupon' ? 'block' : 'none'); ?>;">
@@ -201,7 +205,7 @@
     <div class="right"><a href="<?php echo $checkout; ?>" class="button"><?php echo $button_checkout; ?></a></div>
     <div class="center"><a href="<?php echo $continue; ?>" class="button"><?php echo $button_shopping; ?></a></div>
   </div>
-  <?php /*echo $content_bottom;*/ ?></div>
+  <?php /*echo $content_bottom;*/ ?></div> 
 <script type="text/javascript"><!--
 $('input[name=\'next\']').bind('change', function() {
 	$('.cart-module > div').hide();
@@ -355,6 +359,6 @@ $('select[name=\'country_id\']').bind('change', function() {
 $('select[name=\'country_id\']').trigger('change');
 //--></script>
 <?php } ?>
-
 </div>
+
 <?php echo $footer; ?>

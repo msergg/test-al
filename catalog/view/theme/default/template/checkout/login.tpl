@@ -9,7 +9,7 @@
   <p><?php echo $text_checkout; ?></p>
   <label for="register">
     <?php if ($account == 'register') { ?>
-    <input type="radio" name="account" value="register" id="register" checked="checked" />
+    <input type="radio" name="account" value="register" id="register"  />
     <?php } else { ?>
     <input type="radio" name="account" value="register" id="register" />
     <?php } ?>
@@ -20,7 +20,7 @@
     <?php if ($account == 'guest') { ?>
     <input type="radio" name="account" value="guest" id="guest" checked="checked" />
     <?php } else { ?>
-    <input type="radio" name="account" value="guest" id="guest" />
+    <input type="radio" name="account" value="guest" id="guest" checked="checked"/>
     <?php } ?>
     <b><?php echo $text_guest; ?></b></label>
   <br />

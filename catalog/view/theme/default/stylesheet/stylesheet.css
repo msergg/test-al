@@ -1667,3 +1667,7 @@ a.button:hover, input.button:hover {
 
 #checkout {
  display:none; }
+ 
+ #payment-method {
+ display:none;
+ }
