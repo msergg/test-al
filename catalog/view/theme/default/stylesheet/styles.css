@@ -90,24 +90,25 @@ html, body{
 .top-block {
 	float: left;
 	display:inline;
-	height:294px;
+	height:190px;
 	width:100%;
 	background: white url(../images/top-bg.jpg) repeat-x;
 	}
 .top-block img{
-	margin-top: 70px;
+	margin-top: 20px;
 	height: 130px;
-	display:inline;
+	display:block;
+	margin: 10px auto 18px auto;
 	}
 /*******************************************/
 .top-block .search-form{
 	position: relative;
-	border: solid 3px #dc0000;
+	border: solid 2px #dc0000;
 	width: 700px;
 	min-height: 15px;
 	margin: 0 auto;	
 	z-index: 200;
-	top: 40px;	
+	top: -6x;	
 	
 	-webkit-border-radius: 8px;
 	-moz-border-radius: 8px;
