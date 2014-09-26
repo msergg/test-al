@@ -21,7 +21,7 @@ class ControllerCheckoutGuest extends Controller {
 		$this->data['entry_address_1'] = $this->language->get('entry_address_1');
 		$this->data['entry_address_2'] = $this->language->get('entry_address_2');
 		//$this->data['entry_postcode'] = $this->language->get('entry_postcode');
-		$this->data['entry_city'] = $this->language->get('entry_city');
+		//$this->data['entry_city'] = $this->language->get('entry_city');
 		$this->data['entry_country'] = $this->language->get('entry_country');
 		$this->data['entry_zone'] = $this->language->get('entry_zone');
 		$this->data['entry_shipping'] = $this->language->get('entry_shipping');
@@ -118,11 +118,11 @@ class ControllerCheckoutGuest extends Controller {
 			$this->data['postcode'] = '';
 		}*/
 		
-		if (isset($this->session->data['guest']['payment']['city'])) {
+		/*if (isset($this->session->data['guest']['payment']['city'])) {
 			$this->data['city'] = $this->session->data['guest']['payment']['city'];			
 		} else {
 			$this->data['city'] = '';
-		}
+		}*/
 
 		if (isset($this->session->data['guest']['payment']['country_id'])) {
 			$this->data['country_id'] = $this->session->data['guest']['payment']['country_id'];			  	
@@ -225,9 +225,9 @@ class ControllerCheckoutGuest extends Controller {
 				$json['error']['address_1'] = $this->language->get('error_address_1');
 			}
 	
-			if ((utf8_strlen($this->request->post['city']) < 2) || (utf8_strlen($this->request->post['city']) > 128)) {
+			/*if ((utf8_strlen($this->request->post['city']) < 2) || (utf8_strlen($this->request->post['city']) > 128)) {
 				$json['error']['city'] = $this->language->get('error_city');
-			}
+			}*/
 			
 			$this->load->model('localisation/country');
 			
@@ -271,7 +271,7 @@ class ControllerCheckoutGuest extends Controller {
 			$this->session->data['guest']['payment']['address_1'] = $this->request->post['address_1'];
 		//	$this->session->data['guest']['payment']['address_2'] = $this->request->post['address_2'];
 		//	$this->session->data['guest']['payment']['postcode'] = $this->request->post['postcode'];
-			$this->session->data['guest']['payment']['city'] = $this->request->post['city'];
+			//$this->session->data['guest']['payment']['city'] = $this->request->post['city'];
 			$this->session->data['guest']['payment']['country_id'] = $this->request->post['country_id'];
 			$this->session->data['guest']['payment']['zone_id'] = $this->request->post['zone_id'];
 							

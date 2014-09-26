@@ -58,8 +58,8 @@
   <input type="text" name="address_2" value="<?php echo $address_2; ?>" class="large-field" />
   <br />
   <br />-->
- <span class="required">*</span> <?php echo $entry_city; ?><br />
-  <input  type="text" name="city" value="<?php echo $city; ?>" class="large-field" />
+ <!--<span class="required">*</span> <?php echo $entry_city; ?><br />
+  <input  type="text" name="city" value="<?php echo $city; ?>" class="large-field" />-->
   <!--<br />
   <br />
   <span id="payment-postcode-required" class="required">*</span> <?php echo $entry_postcode; ?><br />
