@@ -698,3 +698,15 @@
 2014-09-27 1:20:35 - PHP Notice:  Undefined index: payment_company in Z:\home\test-al.ua\www\catalog\model\checkout\order.php on line 4
 2014-09-27 1:21:18 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\guest.tpl on line 65
 2014-09-27 1:21:18 - PHP Notice:  Undefined variable: postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\guest.tpl on line 66
+2014-09-27 1:24:41 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\guest.tpl on line 65
+2014-09-27 1:24:41 - PHP Notice:  Undefined variable: postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\guest.tpl on line 66
+2014-09-27 1:24:53 - PHP Notice:  Undefined index: postcode in Z:\home\test-al.ua\www\catalog\controller\checkout\confirm.php on line 150
+2014-09-27 1:25:13 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\guest.tpl on line 65
+2014-09-27 1:25:13 - PHP Notice:  Undefined variable: postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\guest.tpl on line 66
+2014-09-27 1:25:14 - PHP Notice:  Undefined index: payment_postcode in Z:\home\test-al.ua\www\catalog\model\checkout\order.php on line 4
+2014-09-27 1:25:47 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\guest.tpl on line 65
+2014-09-27 1:25:47 - PHP Notice:  Undefined variable: postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\guest.tpl on line 66
+2014-09-27 1:25:57 - PHP Notice:  Undefined index: min_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 429
+2014-09-27 1:25:57 - PHP Notice:  Undefined index: max_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 430
+2014-09-27 1:26:05 - PHP Notice:  Undefined index: min_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 429
+2014-09-27 1:26:05 - PHP Notice:  Undefined index: max_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 430
