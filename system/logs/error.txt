@@ -516,3 +516,5 @@
 2014-09-26 19:51:48 - PHP Notice:  Undefined index: max_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 430
 2014-09-26 19:52:29 - PHP Notice:  Undefined index: min_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 429
 2014-09-26 19:52:29 - PHP Notice:  Undefined index: max_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 430
+2014-09-26 19:56:37 - PHP Notice:  Undefined index: min_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 429
+2014-09-26 19:56:37 - PHP Notice:  Undefined index: max_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 430
