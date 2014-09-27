@@ -748,3 +748,15 @@
 2014-09-27 1:37:14 - PHP Notice:  Undefined variable: postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\guest.tpl on line 66
 2014-09-27 1:40:40 - PHP Notice:  Undefined index: min_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 429
 2014-09-27 1:40:40 - PHP Notice:  Undefined index: max_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 430
+2014-09-27 12:36:24 - PHP Notice:  Undefined index: min_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 429
+2014-09-27 12:36:24 - PHP Notice:  Undefined index: max_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 430
+2014-09-27 12:36:26 - PHP Notice:  Undefined variable: entry_city in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\guest.tpl on line 61
+2014-09-27 12:36:26 - PHP Notice:  Undefined variable: city in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\guest.tpl on line 62
+2014-09-27 12:36:26 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\guest.tpl on line 65
+2014-09-27 12:36:26 - PHP Notice:  Undefined variable: postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\guest.tpl on line 66
+2014-09-27 12:40:24 - PHP Notice:  Undefined variable: entry_city in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\guest.tpl on line 61
+2014-09-27 12:40:24 - PHP Notice:  Undefined variable: city in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\guest.tpl on line 62
+2014-09-27 12:40:24 - PHP Notice:  Undefined variable: entry_postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\guest.tpl on line 65
+2014-09-27 12:40:24 - PHP Notice:  Undefined variable: postcode in Z:\home\test-al.ua\www\catalog\view\theme\default\template\checkout\guest.tpl on line 66
+2014-09-27 12:40:56 - PHP Notice:  Undefined index: min_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 429
+2014-09-27 12:40:56 - PHP Notice:  Undefined index: max_price in Z:\home\test-al.ua\www\catalog\controller\module\filterpro.php on line 430

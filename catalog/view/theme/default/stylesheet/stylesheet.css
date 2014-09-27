@@ -1519,8 +1519,8 @@ a.button:hover, input.button:hover {
 }
 /* checkout */
 .checkout-heading {
-	background: #F8F8F8;
-	border: 1px solid #DBDEE1;
+	/*background: #F8F8F8;
+	border: 1px solid #DBDEE1;*/
 	padding: 8px;
 	font-weight: bold;
 	font-size: 13px;
