@@ -62,7 +62,7 @@ html, body{
 	background-image: -moz-linear-gradient(bottom, #a3a0a0, #cecccc);
 	background-image: -o-linear-gradient(bottom, #a3a0a0, #cecccc);
 	background-image: linear-gradient(to top, #a3a0a0, #cecccc);
-	opacity:0.7;
+	opacity:0.9;
 	background-image: url(../images/carbon-bg.jpg);
 	list-style: none;
 	display: inline;
@@ -285,6 +285,7 @@ html, body{
 	-webkit-box-shadow: 5px 5px #f00;
 	-moz-box-shadow: 5px 5px #f00;
 	box-shadow: 5px 5px #f00;
+	background-color: #dcddcd;
 	}
 
 .categories>a>.category-item:first-child,
@@ -369,9 +370,11 @@ html, body{
 	/*-webkit-box-shadow: 0px 0px 19px 0px rgba(242,0,0,0.65);
 	-moz-box-shadow: 0px 0px 19px 0px rgba(242,0,0,0.65);
 	box-shadow: 0px 0px 19px 0px rgba(242,0,0,0.65);*/
-	border:1px solid #b2201d;
+	/*border:1px solid #b2201d;*/
 	background: url(../images/sub-cat-corner2.png) no-repeat 100% 100% ;
 	background-size: 60px 55px;
+	
+	background-color: #dcddcd;
 	}
 	
 .sub-categories>a>.sub-category-item>.sub-cat-name{
@@ -411,7 +414,7 @@ font-family: intro_regular;
 	background-image: linear-gradient(to top, #a3a0a0, #cecccc);
 	
 	background-image: url(../images/carbon-bg.jpg);
-	opacity:0.7;
+	opacity:0.9;
 	width:100%;
 	height: 20px;
 	font-family:intro_regular;
